@@ -12,7 +12,7 @@ Some small bash scriplets and one-liners of varying degrees of usefulness.
 
 License
 -------
-Apache 2.0
+GNU General Public License v3.0
 
 Author Information
 ------------------
